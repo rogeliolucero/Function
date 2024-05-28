@@ -6,6 +6,7 @@ For this project, the functionality of the ERC20 standard token by providing add
 
 
 CODE
+
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.6.12 <0.9.0;
 
