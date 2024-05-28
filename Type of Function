@@ -10,7 +10,7 @@ contract LuceroToken is ERC20 {
     address public Owner;
     
     constructor() ERC20("Lucero Token", "LT") {
-        _mint(msg.sender, 10000 );
+        _mint(msg.sender, 5000 );
         Owner = msg.sender;
     }
    //This function is used to create new tokens and add them to a specified address.
