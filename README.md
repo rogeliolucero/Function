@@ -1,3 +1,6 @@
+Smart Contract Project
+For this project, write a smart contract that implements the require(), assert() and revert() statements.
+
 
 
 CODE
@@ -39,3 +42,12 @@ contract LuceroToken is ERC20 {
     }
     
 }
+
+
+Author
+NTC
+
+Rogelio A Lucero Jr.
+
+8215129@ntc.edu.ph
+
