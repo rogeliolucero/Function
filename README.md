@@ -1,7 +1,7 @@
 
-Types of Functions
-Project: Create and Mint Token
-For this project, the functionality of the ERC20 standard token by providing additional functions such as minting, burning, and transfer and transferFrom.
+PROJECT :TYPE OF FUNCTION
+
+For this project, the function of the ERC20 standard token by providing additional functions such as minting, burning, and transfer and transferFrom.
 
 
 
